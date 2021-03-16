@@ -1,0 +1,2 @@
+class NotWithdrawalException(Exception):
+    pass
